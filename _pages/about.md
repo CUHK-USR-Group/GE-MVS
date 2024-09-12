@@ -32,7 +32,7 @@ The Chinese University of Hong Kong, Hong Kong SAR, China
 <div style="display: flex; flex-direction: row; margin: 10px auto; justify-content: center"> 
 
 <button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px;border: none; border-radius: 5px;">
-<a href="/files/Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction.pdf" style="color: white; text-decoration: none;">Paper</a>
+<a href="files/Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction.pdf" style="color: white; text-decoration: none;">Paper</a>
 </button>
 
 <button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px; border: none; border-radius: 5px;">
@@ -40,7 +40,7 @@ The Chinese University of Hong Kong, Hong Kong SAR, China
 </button>
 
 <button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px; border: none; border-radius: 5px;">
-<a href="/files/Appendix_Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction.pdf" style="color: white; text-decoration: none;">Appendix</a>
+<a href="files/Appendix_Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction.pdf" style="color: white; text-decoration: none;">Appendix</a>
 </button>
 
 </div>
