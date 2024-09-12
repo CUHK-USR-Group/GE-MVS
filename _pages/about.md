@@ -20,7 +20,7 @@ layout: single
 
 <h1 style="text-align: center; font-size: 36px; font-family: 'system-ui';">Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction</h1>
 <h2  style="text-align: center; font-size: 18px; font-family: 'Sama Devanagari';">
-    Submitted to 2024 IEEE International Conference on Robotics and Automation
+    Submitted to 2025 IEEE International Conference on Robotics and Automation
 </h2>
 <div style=" text-align: center; font-size: 17px;">
 Guidong Yang, Rui Cao, Junjie Wen, Benyun Zhao, Qingxiang Li, Yijun Huang, <br> Xi Chen, Alan Lam, Yun-Hui Liu, <i>Fellow, IEEE</i>, and Ben M. Chen<sup>*</sup>, <i>Fellow, IEEE</i>
