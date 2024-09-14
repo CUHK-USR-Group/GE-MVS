@@ -66,7 +66,7 @@ Multi-view stereo (MVS) implicitly encodes photometric and geometric cues into t
 <h2>Acknowledgements</h2>
 </div>
 
-<div style="text-align: justify">This work was supported by the InnoHK of the Government of the Hong Kong Special Administrative Region via the Hong Kong Centre for Logistics Robotics.
+<div style="text-align: justify">The work was supported in part by the Research Grants Council of Hong Kong SAR under Grants 14206821, 14217922 and 14209623, and in part by the InnoHK of the Government of the Hong Kong SAR via the Hong Kong Centre for Logistics Robotics.
 <br> <br>
 We would like to express our gratitude to all the ICRA reviewers for their time, efforts, and constructive comments.
 </div>
