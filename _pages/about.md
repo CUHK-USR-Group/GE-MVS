@@ -20,12 +20,20 @@ layout: single
 
 
 
+<h1 style="text-align: center; font-size: 36px; font-family: 'system-ui';">Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction</h1>
+<h2  style="text-align: center; font-size: 18px; font-family: 'Sama Devanagari';">
+    Submitted to 2025 IEEE International Conference on Robotics and Automation
+</h2>
+<div style=" text-align: center; font-size: 17px;">
+Guidong Yang, Rui Cao, Junjie Wen, Benyun Zhao, Qingxiang Li, Yijun Huang, <br> Xi Chen, Alan Lam, Yun-Hui Liu, <i>Fellow, IEEE</i>, and Ben M. Chen<sup>*</sup>, <i>Fellow, IEEE</i>
+</div>
+<div  style="text-align: center; font-size: 17px;" >
+The Chinese University of Hong Kong, Hong Kong SAR, China
+
 </div>
 <div style="display: flex; flex-direction: row; margin: 10px auto; justify-content: center"> 
 
-<button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px;border: none; border-radius: 5px;">
-<a href="files/Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction.pdf" style="color: white; text-decoration: none;">Paper</a>
-</button>
+
 
 <button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px; border: none; border-radius: 5px;">
 <a href="https://github.com/CUHK-USR-Group/GE_MVS" style="color: white; text-decoration: none;">Code</a>
