@@ -18,15 +18,7 @@ layout: single
   }
 </style>
 
-<h1 style="text-align: center; font-size: 36px; font-family: 'system-ui';">Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction</h1>
-<h2  style="text-align: center; font-size: 18px; font-family: 'Sama Devanagari';">
-    Submitted to 2025 IEEE International Conference on Robotics and Automation
-</h2>
-<div style=" text-align: center; font-size: 17px;">
-Guidong Yang, Rui Cao, Junjie Wen, Benyun Zhao, Qingxiang Li, Yijun Huang, <br> Xi Chen, Alan Lam, Yun-Hui Liu, <i>Fellow, IEEE</i>, and Ben M. Chen<sup>*</sup>, <i>Fellow, IEEE</i>
-</div>
-<div  style="text-align: center; font-size: 17px;" >
-The Chinese University of Hong Kong, Hong Kong SAR, China
+
 
 </div>
 <div style="display: flex; flex-direction: row; margin: 10px auto; justify-content: center"> 
@@ -48,11 +40,7 @@ The Chinese University of Hong Kong, Hong Kong SAR, China
 <div style="text-align: center; font-family: 'American Typewriter'; font-weight: 400; "> 
 <h2>Abstract</h2>
 </div>
-<div style="text-align: justify; text-justify:inter-ideograph;">
 
-Multi-view stereo (MVS) implicitly encodes photometric and geometric cues into the cost volume for multi-view correspondence matching, transferring insufficient geometric cues essential to depth estimation and reconstruction. This paper proposes GE-MVS, a novel multi-view stereo network with geometric encoding for more accurate and complete depth estimation and point cloud reconstruction. First, the cross-view adaptive cost volume aggregation module is proposed to strengthen multi-view geometric cues encoding during cost volume construction. Then, the depth consistency optimization is performed in the 3D point space during learning by invoking ground-truth depth cues from adjacent views. Finally, the surface normal geometries are explicitly encoded to refine the sampled depth hypotheses to be consistent in the local neighbor regions. Extensive experiments on the standard MVS benchmarks including DTU, Tanks and Temples, and BlendedMVS demonstrate the state-of-the-art depth estimation and point cloud reconstruction performance of GE-MVS. The GE-MVS is further deployed in real-world experiments for UAV-based large-scale reconstruction, where our method outperforms the prevalent industrial reconstruction solutions concerning reconstruction efficiency and efficacy.
-
-</div>
 
 <div style="text-align: center; font-family: 'American Typewriter'; font-weight: 400; "> 
 <h2>Demo Video</h2>
