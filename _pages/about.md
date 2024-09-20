@@ -45,9 +45,7 @@ The Chinese University of Hong Kong, Hong Kong SAR, China
 
 </div>
 
-<div style="text-align: center; font-family: 'American Typewriter'; font-weight: 400; "> 
-<h2>Abstract</h2>
-</div>
+
 
 
 <div style="text-align: center; font-family: 'American Typewriter'; font-weight: 400; "> 
