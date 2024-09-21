@@ -40,7 +40,7 @@ The Chinese University of Hong Kong, Hong Kong SAR, China
 </button>
 
 <button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px; border: none; border-radius: 5px;">
-<a href="files/Appendix_Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction.pdf" style="color: white; text-decoration: none;">Appendix</a>
+<a href="https://drive.google.com/file/d/1dv2hJj11u7IVd8xrR0Z3I8ssxTjtnh0T/view?usp=sharing" style="color: white; text-decoration: none;">Appendix</a>
 </button>
 
 </div>
