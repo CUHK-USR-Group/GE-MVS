@@ -34,18 +34,11 @@ The Chinese University of Hong Kong, Hong Kong SAR, China
 <div style="display: flex; flex-direction: row; margin: 10px auto; justify-content: center"> 
 
 
-
-<button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px; border: none; border-radius: 5px;">
-<a href="https://github.com/CUHK-USR-Group/GE_MVS" style="color: white; text-decoration: none;">Code</a>
-</button>
-
 <button style="background-color: #000000; color: white;margin-right: 15px; padding: 10px 15px; border: none; border-radius: 5px;">
 <a href="https://drive.google.com/file/d/18Di763QTKYP-0n6XASyRpjLZBYVEPqM0/view?usp=sharing" style="color: white; text-decoration: none;">Appendix</a>
 </button>
 
 </div>
-
-
 
 
 <div style="text-align: center; font-family: 'American Typewriter'; font-weight: 400; "> 
